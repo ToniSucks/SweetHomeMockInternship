@@ -2,7 +2,7 @@
 
 Verified on Windows with JDK 11.
 
-- `task1-running.jpg`: the original application running with the supplied sample.
+- `task1-running.jpg`: the application running with the supplied sample.
 - `task2-description.jpg`: an edited Description in Modify furniture. Confirmed the text persists after OK and reopening the dialog.
 - `task3-volume.jpg`: populated Volume column and Furniture > Sort by > Volume.
 - `task3-context-menu.jpg`: Volume in the table's Display column context submenu. Verified ascending and descending sorting.
